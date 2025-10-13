@@ -1,0 +1,1 @@
+Repository with all the exercises regardin of GitHub Actions Course!
